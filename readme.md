@@ -111,7 +111,7 @@ Open **http://localhost:8080** in your browser.
 - **IAM user** with minimally required permissions (for simplicity here):
   - `AmazonEC2FullAccess`
   - `AmazonEC2ContainerRegistryFullAccess`
-- **ECR repository** (e.g., `315865595366.dkr.ecr.us-east-1.amazonaws.com/medicalbot`)
+- **ECR repository** (e.g., `011528265658.dkr.ecr.us-east-1.amazonaws.com/careguideai`)
 - **EC2 instance** (Ubuntu) with Docker installed:
   ```bash
   sudo apt-get update -y && sudo apt-get upgrade -y

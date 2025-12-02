@@ -82,6 +82,10 @@ python app.py
 Open **http://localhost:8080** in your browser.
 
 ---
+## Chat interface 
+![System Architecture](https://github.com/Immortal-Pi/CareGuideAI/blob/main/assets/NLQV_architecture.jpeg)
+
+![System Architecture](https://github.com/Immortal-Pi/CareGuideAI/blob/main/assets/NLQV_architecture.jpeg)
 
 ## Project Structure (typical)
 ```

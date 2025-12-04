@@ -1,4 +1,4 @@
-# Medical Chatbot with LLMs, LangChain, Pinecone, Flask & AWS
+# RAG pipeline LangChain, Pinecone, Flask & AWS
 
 This repo demonstrates an end‑to‑end medical Q&A chatbot: load PDFs with treatment, chunk & embed with LangChain, index in Pinecone for semantic search, and serve a Flask UI. A GitHub Actions + AWS (ECR + EC2) pipeline is included for containerized deployment.
 

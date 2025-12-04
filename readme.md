@@ -83,9 +83,10 @@ Open **http://localhost:8080** in your browser.
 
 ---
 ## Chat interface 
-![System Architecture](https://github.com/Immortal-Pi/CareGuideAI/blob/main/assets/NLQV_architecture.jpeg)
+![System Architecture](https://github.com/Immortal-Pi/CareGuideAI/blob/main/static/assets/chat_interface.png)
 
-![System Architecture](https://github.com/Immortal-Pi/CareGuideAI/blob/main/assets/NLQV_architecture.jpeg)
+
+![System Architecture](https://github.com/Immortal-Pi/CareGuideAI/blob/main/static/assets/chat_interface_2.png)
 
 ## Project Structure (typical)
 ```
